@@ -11,7 +11,7 @@ To get started, open the index.html file to find instructions and examples. You'
   3. #Make a Headline <h1> 
   ##MelissaAustin<h2> 
   <li>Add an image (<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
-  <li><img src=<a href="http://tinypic.com?ref=28vq7iv" target="_blank"><img src="http://i61.tinypic.com/28vq7iv.jpg" border="0" alt="Image and video hosting by TinyPic"></a></li>
+  ![]img src=<a href="http://tinypic.com?ref=28vq7iv" target="_blank"><img src="http://i61.tinypic.com/28vq7iv.jpg" border="0" alt="Image and video hosting by TinyPic"
   <li><a href="http://www.coceleratoru.com">Link</a> to some website.</li>
   (Website)[http://www.coastal.edu]
   <li>Add another item to the bottom of this list!</li>
