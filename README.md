@@ -8,8 +8,8 @@ To get started, open the index.html file to find instructions and examples. You'
 #
   **Bold some text**
   **MelissaAustin**
-  #Make a Headline# (an <h1> tag)
-  #MelissaAustin# (an <h1> tag)
+  #Make a Headline# <h1> 
+  #MelissaAustin# <h1> 
   <li>Add an image (<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
   <li><img src=<a href="http://tinypic.com?ref=28vq7iv" target="_blank"><img src="http://i61.tinypic.com/28vq7iv.jpg" border="0" alt="Image and video hosting by TinyPic"></a></li>
   <li><a href="http://www.coceleratoru.com">Link</a> to some website.</li>
