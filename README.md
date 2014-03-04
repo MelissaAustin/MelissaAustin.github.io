@@ -30,7 +30,8 @@ To get started, open the index.html file to find instructions and examples. You'
   6. [a href="http://www.coceleratoru.com">Link</a>](to some website)
   7. (Website) [http://www.coastal.edu]
   8. *Add another item to the bottom of this list!*
-  9.  *I live in Myrtle Beach*
+  9.  *Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!*
+  10.  *I live in Myrtle Beach*
 
 
 	### About Me <h3>
