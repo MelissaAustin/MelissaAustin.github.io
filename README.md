@@ -11,7 +11,7 @@ To get started, open the index.html file to find instructions and examples. You'
   2. **MelissaAustin**
   3. #Make a Headline<h1>
   
-###MelissaAustin<h3> 
+  ###MelissaAustin<h3> 
 
 4. ![Add an image](<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png")
   
