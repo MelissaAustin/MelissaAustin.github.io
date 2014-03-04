@@ -8,13 +8,12 @@ To get started, open the index.html file to find instructions and examples. You'
 #
   1. **Bold some text**
   2. **MelissaAustin**
-   ##MelissaAustin <h2> 
+  3. ##MelissaAustin <h2> 
   4. Add an image (<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
   5. ![Picture](http://colleensdance.com/wp-content/uploads/2012/08/dancer4.jpg)
   6. (Website)[http://www.coastal.edu]
-  7. Add another item to the bottom of this list!
-  8. Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!
-9. *I live in Myrtle Beach*
+  7. Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!
+8. *I live in Myrtle Beach*
 
 
 	### About Me <h3>
