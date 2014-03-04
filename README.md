@@ -8,7 +8,7 @@ To get started, open the index.html file to find instructions and examples. You'
 #
   1. **Bold some text**
   2. **MelissaAustin**
-  3.  ##MelissaAustin <h2> 
+  ##MelissaAustin <h2> 
   4. ![Picture](http://colleensdance.com/wp-content/uploads/2012/08/dancer4.jpg)
   5. (Website)[http://www.coastal.edu]
   6. Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!
