@@ -24,7 +24,7 @@ To get started, open the index.html file to find instructions and examples. You'
   
 ###MelissaAustin<h3> 
 
-4. ![Add an image](<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50")
+4. ![Add an image](<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png")
   
   5. ![Picture](http://colleensdance.com/wp-content/uploads/2012/08/dancer4.jpg)
   6. [a href="http://www.coceleratoru.com">Link</a>](to some website)
